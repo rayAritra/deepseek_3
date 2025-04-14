@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../../assets"
+		},
+		{
+			"name": "ai_chatbot",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
